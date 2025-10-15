@@ -1,0 +1,32 @@
+# Suggested Audio File Renaming
+
+## Current Files → Suggested Names:
+
+1. "Future_ft._Miley_Cyrus_-_Real_True_(mp3.pm).mp3" → "01_Real_and_True.mp3"
+2. "Jacob_Banks_-_Found_(mp3.pm).mp3" → "02_Found.mp3"
+3. "Passenger-Lifes-For-The-Living-(TopGhanaMusic.Com).mp3" → "03_Lifes_For_The_Living.mp3"
+4. "Westlife_-_Swear_It_Again_(mp3.pm).mp3" → "04_Swear_It_Again.mp3"
+5. "O Fly On - Coldplay.mp3" → "05_O_Fly_On.mp3"
+6. "Westlife - Queen Of My Heart (Official Video).mp3" → "06_Queen_Of_My_Heart.mp3"
+7. "Schmyt - Ich wünschte, du wärst verloren A COLORS SHOW.mp3" → "07_Ich_Wunsche_Du_Warst_Verloren.mp3"
+8. "Passenger Let Her Go (Official Video).mp3" → "08_Let_Her_Go.mp3"
+9. "Army of One.mp3" → "09_Army_Of_One.mp3"
+10. "The Chainsmokers - Closer (Lyric) ft. Halsey.mp3" → "10_Closer.mp3"
+11. "Passenger The Venice Canals.mp3" → "11_Venice_Canals.mp3"
+12. "Imagine Dragons - Next To Me (Audio).mp3" → "12_Next_To_Me.mp3"
+13. "Up in Flames.mp3" → "13_Up_In_Flames.mp3"
+14. "gnash - i hate u, i love u ft. olivia o'brien (music video).mp3" → "14_I_Hate_U_I_Love_U.mp3"
+15. "For The Road.mp3" → "15_For_The_Road.mp3"
+16. "Caroline Polachek - Hit Me Where it Hurts (Lyric Booklet).mp3" → "16_Hit_Me_Where_It_Hurts.mp3"
+
+## Benefits of This Naming:
+- No special characters (commas, periods, parentheses, apostrophes)
+- No spaces (replaced with underscores)
+- Sequential numbering for easy organization
+- Short, clean names
+- Consistent format
+
+## After Renaming:
+1. Update the filenames in script.js to match the new names
+2. The audio should load much more reliably
+3. No more encoding issues
